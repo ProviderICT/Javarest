@@ -1,0 +1,9 @@
+Ejbs\NewSessionBean.class
+rest\apath.class
+com\mycompany\realtionaltesting\JAXRSConfiguration.class
+Ejbs\NewSessionBeanLocal.class
+Client\addressClient.class
+Entity\Customer.class
+com\mycompany\realtionaltesting\resources\JavaEE8Resource.class
+CDIBaan\AddressBean.class
+Entity\Address.class
